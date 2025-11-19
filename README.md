@@ -1,6 +1,6 @@
 # Meu Currículo em React Native
 
-Este projeto é o meu primeiro exercício prático com React Native, desenvolvido como uma atividade para a aula de Code Mobile.
+Este projeto e o meu primeiro exercício prático com React Native, desenvolvido como uma atividade para a aula de Code Mobile.
 
 ## 🎯 Objetivo
 
